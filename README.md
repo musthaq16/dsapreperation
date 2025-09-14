@@ -1,4 +1,4 @@
-/* ARRAY
+ARRAY
 
 1 - Check if pair with the given Sum exists in Array.
 2 - Best Time to Buy and Sell Stock.
@@ -10,3 +10,14 @@
 8 - Search in Rotated Sorted Array.
 9 - 3 Sum.
 10 - Container With Most Water.
+11 - Factorial Trailing Zeroes.
+12 - Trapping Rain Water.
+13 - Set Matrix Zeroes.
+
+
+STACK
+1 - Check if given Parentheses expression is balanced or not.
+
+
+DP
+1 - Count ways to reach the n’th stair.
