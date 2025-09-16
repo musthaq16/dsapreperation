@@ -13,6 +13,15 @@ ARRAY
 11 - Factorial Trailing Zeroes.
 12 - Trapping Rain Water.
 13 - Set Matrix Zeroes.
+14 - Spiral Matrix.
+
+
+STRING
+1 - Longest Substring Without Repeating Characters.
+2 - Valid Anagrams.
+3 - Longest Repeating Character Replacement.
+
+Sentence Palindrome.
 
 
 STACK
