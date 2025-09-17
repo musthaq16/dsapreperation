@@ -22,6 +22,7 @@ STRING
 3 - Longest Repeating Character Replacement.
 
 Sentence Palindrome.
+Longest Common Prefix.
 
 
 STACK
@@ -30,3 +31,11 @@ STACK
 
 DP
 1 - Count ways to reach the n’th stair.
+
+
+
+first index duplicate.
+maximum repeating characters.
+first missing positive number.
+find the missing numbers in natural number.
+find the continous missing number.
